@@ -1,0 +1,56 @@
+# VinylMania Support
+
+Welcome to the VinylMania support page. Here you'll find information to help you get the most from your vinyl record experience.
+
+## FAQ
+
+### How do I record vinyl to the app?
+1. Connect your turntable to your iOS device using an audio interface
+2. Tap the "Record Vinyl" button from the main player screen
+3. Configure your recording settings and press record
+4. The app will detect track breaks automatically or you can manually set them
+
+### How do I import existing audio files?
+1. Navigate to "Vinyl Records" from the main screen
+2. Tap the "+" icon in the top right corner
+3. You can import audio from Files, other apps, or use the "Import from GarageBand/Logic" option
+
+### Why doesn't my album artwork appear?
+Album artwork needs to be either:
+- Added during the import process
+- Added to an existing album via the album details page
+
+### How do I use the equalizer?
+1. During playback, tap the equalizer icon
+2. Choose a preset or adjust each frequency band manually
+3. Your settings will be saved automatically for future playback
+
+### Can I delete individual tracks?
+Yes! In the Vinyl Records view, swipe left on any track to reveal the delete option.
+
+## Troubleshooting
+
+### App crashes during recording
+- Ensure your iOS device has sufficient storage
+- Try recording at a lower sample rate
+- Make sure microphone permissions are enabled in iOS Settings
+
+### Audio playback issues
+- Check that your audio file is in a supported format (MP3, WAV, M4A, AAC, AIF, AIFF)
+- Try restarting the app
+- Ensure your device's volume is turned up
+
+## Feature Requests and Bug Reports
+
+We're constantly improving VinylMania! If you encounter any bugs or have suggestions for new features, please:
+
+1. Check the [existing issues](https://github.com/your-username/VinylMania/issues) to see if it's already reported
+2. Create a [new issue](https://github.com/your-username/VinylMania/issues/new) with detailed information about your request or the bug you encountered
+
+## Contact
+
+For additional support:
+- Email: support@vinylmaniaapp.com
+- Twitter: [@VinylManiaApp](https://twitter.com/VinylManiaApp)
+
+Thank you for using VinylMania!
